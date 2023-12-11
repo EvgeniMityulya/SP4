@@ -1,0 +1,12 @@
+﻿  Handler.cpp
+  main.cpp
+C:\Users\evgen\Desktop\Thread\Thread\main.cpp(57,28): warning C4267: =: преобразование из "size_t" в "int"; возможна потеря данных
+  Merger.cpp
+C:\Users\evgen\Desktop\Thread\Thread\Merger.cpp(20,16): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\evgen\Desktop\Thread\Thread\Merger.cpp(21,16): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+  Sorter.cpp
+C:\Users\evgen\Desktop\Thread\Thread\Sorter.cpp(8,12): warning C4244: инициализация: преобразование "double" в "int", возможна потеря данных
+  TaskQueue.cpp
+  Создание кода...
+  LINK : не найден или не выполнена сборка C:\Users\evgen\Desktop\Thread\x64\Debug\Thread.exe при последней инкрементной компоновке; выполняется полная компоновка
+  Thread.vcxproj -> C:\Users\evgen\Desktop\Thread\x64\Debug\Thread.exe
